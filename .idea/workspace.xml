@@ -5,228 +5,225 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad796f5e-3429-4ca8-9779-c2fdfc37d529" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/B/S3/BJ_1158_요세푸스문제.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/AdjListTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/AdjMatrixTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/BinomialCoefTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/CombinationNPTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/DAY2/CompleteBinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/DAY2/CompleteBinaryTreeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/DiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/DijkstraTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/DisjointSetTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/FinonacciTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/MST_KruskalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/MST_PrimPQTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/MST_PrimTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/MakeSpaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/MinCoinTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/NQueenTest1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/PermutationBitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/PermutationNPTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/PowerSetTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/SAMPLE.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/SquareNumberTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/SubSetSumTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/live11_14_dist/graph_input1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/live11_14_dist/graph_input2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/live11_14_dist/공간만들기_input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/stack/IStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/stack/LinkedListStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/stack/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Lecture/stack/StackTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Practice/exercise_0803.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/Practice/exercise_perm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/S1/BJ_11660_구간합구하기5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/S4/BJ_1244_스위치켜고끄기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/S4/BJ_2164_카드2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1218_괄호짝짓기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1225_암호생성기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1233_사칙연산유효성검사.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1233_사칙연산유효성검사_notTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1238_Contact.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1247_최적경로.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1251_하나로.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1263_사람네트워크2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1486_장훈이의높은선반.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1767_프로세서_연결하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1767_프로세서연결하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1861_정사각형방.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1873_상호의배틀필드.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_1954_달팽이숫자.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_2112_보호필름.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_2115_벌꿀채취.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_2382_미생물격리.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_3289_서로소집합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_4008_숫자만들기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_4012_요리사.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_4014_활주로건설.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_4193_수영대회결승전.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_5215_햄버거다이어트.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_5607_조합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_5643_키순서.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_5644_무선충전.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_5656_벽돌깨기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_6808_규영이와인영이의카드게임.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_7465_창용마을무리의개수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_9229_한빈이와SpotMart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_D3_농작물수확하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_Flatten.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_Ladder1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_농작물수확하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/SWEA_햄스터.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWEA/swea_벽돌깨기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWTest/Toss01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWTest/Toss03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/SWTest/Toss2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_2112_보호필름.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_BJ_1149_RGB거리.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_BJ_14502_연구소.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_BJ_17404_RGB거리2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_BJ_17471_게리맨더링.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_BJ_17485_진우의달여행Large.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_BJ_1941_소문난칠공주.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_BJ_3055_탈출.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_BJ_3109_빵집.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_BJ_4485_녹색옷입은애가젤다지.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_SWEA_1486_장훈이의높은선반.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_SWEA_2115_벌꿀채취.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_SWEA_4008_숫자만들기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_SWEA_4193_수영대회결승전.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_SWEA_5644_무선충전.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_SWEA_7465_창용마을무리의개수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/TestA/TestA_SWEA_7465_창용마을무리의개수DFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/BJ_1051_숫자정사각형.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/BJ_1062_가르침.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/BJ_11729_하노이탑.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/BJ_15686_치킨배달.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/BJ_1600_말이되고픈원숭이.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/BJ_1759_암호만들기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_10172_개.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_10250_ACM호텔.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_10809_알파벳찾기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_10818_최소최대.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_10870_피보나치수5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_1157_단어공부.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_11718_그대로출력하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_11720_숫자의합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_1292_쉽게푸는문제.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_15964_이상한기호.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_1978_소수찾기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2309_일곱난쟁이.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2439_별찍기2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2460_지능형기차2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2475_검증수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2501_약수구하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_25083_새싹.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2562_최댓값.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2577_숫자의개수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2581_소수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2609_최대공약수와최소공배수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2675_문자열반복.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2693_N번째큰수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2754_학점계산.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2884_알람시계.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_2920_음계.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_3040_백설공주와일곱난쟁이.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_3052_나머지.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_3460_이진수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Bronze/BJ_8958_OX퀴즈.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_10026_적록색약.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1062_가르침.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1197_최소스패닝트리.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_12865_평범한배낭.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_12891_DNA비밀번호.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_13023_ABCDE.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1365_꼬인전깃줄.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_14502_연구소.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_14719_빗물.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1484_다이어트.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_15683_감시.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_16927_배열돌리기2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_16935_배열돌리기3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1700_멀티탭스케줄링.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_17069_파이프옮기기2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_17135_캐슬디펜스.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_17281_야구.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_17404_RGB거리2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_17406_배열돌리기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_17471_게리맨더링.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_17471_게리멘더링.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_17472_다리만들기2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_17485_진우의달여행large.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1753_최단경로.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1806_부분합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1916_최소비용구하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1941_소문난칠공주.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_1987_알파벳.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_19942_다이어트.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_2023_신기한소수.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_2096_내려가기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_2234_성곽.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_2239_스도쿠.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_2493_탑.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_2504_괄호의값.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_3055_탈출.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_3109_빵집.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_3190_뱀.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_4386_별자리만들기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_4485_녹색옷입은애가젤다지.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_6497_전력난.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_6987_월드컵.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Gold/BJ_9205_맥주마시면서걸어가기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/STUDY/BJ_1966_프린터큐.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1010_다리놓기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1018_체스판다시칠하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1074_Z.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_10971_외판원순회2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_11060_점프점프.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1106_호텔.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1149_RGB거리.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_11659_구간합구하기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_11726_2xn타일링.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1181_단어정렬.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1244_스위치켜고끄기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1260_DFS와BFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1463_1로만들기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_14888_연산자끼워넣기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_15650_N과M2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_16435_스네이크버드.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1697_숨바꼭질.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1744_수묶기.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1789_수들의합.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1966_프린터큐.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_1992_쿼드트리.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_20922_겹치는건싫어.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_2178_미로탐색.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_2531_회전초밥.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_2563_색종이.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_2839_설탕배달.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_2961_도영이가만든맛있는음식.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Silver/BJ_S3_15649_N과M.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/baekjoon/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/BitMasking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/DisjointSetTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/UnionFInd_0828.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은아침.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은아침_0808.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은아침_0809.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은아침_0810.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은아침_0811.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은아침_0813.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은아침_0828.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은아침_순열.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은저녁.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은저녁_0823.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/좋은저녁_0828.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/basecode/크루스칼.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baekjoon/src/deafult/A0009_정여민_최은비.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/AlgorithmApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/BJ_1051_숫자정사각형.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/BJ_1062_가르침.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/BJ_11729_하노이탑.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/BJ_15686_치킨배달.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/BJ_1600_말이되고픈원숭이.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/BJ_1759_암호만들기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_10172_개.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_10250_ACM호텔.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_10809_알파벳찾기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_10818_최소최대.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_10870_피보나치수5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_1157_단어공부.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_11718_그대로출력하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_11720_숫자의합.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_1292_쉽게푸는문제.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_15964_이상한기호.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_1978_소수찾기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2309_일곱난쟁이.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2439_별찍기2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2460_지능형기차2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2475_검증수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2501_약수구하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_25083_새싹.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2562_최댓값.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2577_숫자의개수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2581_소수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2609_최대공약수와최소공배수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2675_문자열반복.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2693_N번째큰수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2754_학점계산.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2884_알람시계.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_2920_음계.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_3040_백설공주와일곱난쟁이.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_3052_나머지.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_3460_이진수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Bronze/BJ_8958_OX퀴즈.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_10026_적록색약.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1062_가르침.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1197_최소스패닝트리.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_12865_평범한배낭.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_12891_DNA비밀번호.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_13023_ABCDE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1365_꼬인전깃줄.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_14502_연구소.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_14719_빗물.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1484_다이어트.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_15683_감시.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_16927_배열돌리기2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_16935_배열돌리기3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1700_멀티탭스케줄링.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_17069_파이프옮기기2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_17135_캐슬디펜스.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_17281_야구.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_17404_RGB거리2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_17406_배열돌리기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_17471_게리맨더링.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_17471_게리멘더링.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_17472_다리만들기2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_17485_진우의달여행large.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1753_최단경로.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1806_부분합.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1916_최소비용구하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1941_소문난칠공주.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_1987_알파벳.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_19942_다이어트.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_2023_신기한소수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_2096_내려가기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_2234_성곽.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_2239_스도쿠.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_2493_탑.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_2504_괄호의값.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_3055_탈출.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_3109_빵집.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_3190_뱀.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_4386_별자리만들기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_4485_녹색옷입은애가젤다지.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_6497_전력난.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_6987_월드컵.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Gold/BJ_9205_맥주마시면서걸어가기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/STUDY/BJ_1966_프린터큐.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1010_다리놓기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1018_체스판다시칠하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1074_Z.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_10971_외판원순회2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_11060_점프점프.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1106_호텔.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1149_RGB거리.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_11659_구간합구하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_11726_2xn타일링.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1181_단어정렬.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1244_스위치켜고끄기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1260_DFS와BFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1463_1로만들기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_14888_연산자끼워넣기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_15650_N과M2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_16435_스네이크버드.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1697_숨바꼭질.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1744_수묶기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1789_수들의합.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1966_프린터큐.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_1992_쿼드트리.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_20922_겹치는건싫어.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_2178_미로탐색.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_2531_회전초밥.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_2563_색종이.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_2839_설탕배달.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_2961_도영이가만든맛있는음식.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Silver/BJ_S3_15649_N과M.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/BJ/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/AdjListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/AdjMatrixTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/BinomialCoefTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/CombinationNPTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/DAY2/CompleteBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/DAY2/CompleteBinaryTreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/DiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/DijkstraTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/DisjointSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/FinonacciTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/MST_KruskalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/MST_PrimPQTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/MST_PrimTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/MakeSpaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/MinCoinTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/NQueenTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/PermutationBitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/PermutationNPTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/PowerSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/SAMPLE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/SquareNumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/SubSetSumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/live11_14_dist.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/live11_14_dist/graph_input1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/live11_14_dist/graph_input2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/live11_14_dist/공간만들기_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/stack/IStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/stack/LinkedListStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/stack/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/Lecture/stack/StackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1218_괄호짝짓기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1225_암호생성기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1233_사칙연산유효성검사.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1233_사칙연산유효성검사_notTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1238_Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1247_최적경로.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1251_하나로.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1263_사람네트워크2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1486_장훈이의높은선반.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1767_프로세서_연결하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1767_프로세서연결하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1861_정사각형방.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1873_상호의배틀필드.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_1954_달팽이숫자.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_2112_보호필름.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_2115_벌꿀채취.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_2382_미생물격리.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_3289_서로소집합.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_4008_숫자만들기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_4012_요리사.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_4014_활주로건설.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_4193_수영대회결승전.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_5215_햄버거다이어트.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_5607_조합.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_5643_키순서.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_5644_무선충전.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_5656_벽돌깨기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_6808_규영이와인영이의카드게임.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_7465_창용마을무리의개수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_9229_한빈이와SpotMart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_D3_농작물수확하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_Flatten.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_Ladder1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_농작물수확하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/SWEA_햄스터.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/Solution2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_2112_보호필름.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_BJ_1149_RGB거리.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_BJ_14502_연구소.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_BJ_17404_RGB거리2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_BJ_17471_게리맨더링.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_BJ_17485_진우의달여행Large.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_BJ_1941_소문난칠공주.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_BJ_3055_탈출.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_BJ_3109_빵집.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_BJ_4485_녹색옷입은애가젤다지.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_SWEA_1486_장훈이의높은선반.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_SWEA_2115_벌꿀채취.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_SWEA_4008_숫자만들기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_SWEA_4193_수영대회결승전.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_SWEA_5644_무선충전.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_SWEA_7465_창용마을무리의개수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/TestA/TestA_SWEA_7465_창용마을무리의개수DFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/SWEA/swea_벽돌깨기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/BitMasking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/DisjointSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/UnionFInd_0828.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은아침.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은아침_0808.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은아침_0809.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은아침_0810.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은아침_0811.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은아침_0813.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은아침_0828.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은아침_순열.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은저녁.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은저녁_0823.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/좋은저녁_0828.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/org/yeomin/algorithm/basecode/크루스칼.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/test/java/org/yeomin/algorithm/AlgorithmApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,30 +236,30 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kXvTBbwkOfUmidOScitejizIf8" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BJ_2501_약수구하기.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/SSAFY/algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BJ_2501_약수구하기.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SSAFY/algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="BJ_2501_약수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.Bronze.BJ_2501_약수구하기" />
@@ -299,6 +296,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723442743997</updated>
       <workItem from="1723442748781" duration="427000" />
+      <workItem from="1723443626669" duration="14000" />
     </task>
     <servers />
   </component>

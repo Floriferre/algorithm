@@ -34,25 +34,50 @@ import java.util.StringTokenizer;
 
 public class BJ_2501_약수구하기 {
     public static void main(String[] args) throws IOException {
+//        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+//        StringTokenizer st = new StringTokenizer(br.readLine());
+//
+//        int N = Integer.parseInt(st.nextToken());
+//        int K = Integer.parseInt(st.nextToken());
+//
+//        int n = 0;
+//        int index = 0;
+//        for (int i = 1; i <= N ; i++){
+//            if(N%i == 0){
+//                n++;
+//                if(n == K){
+//                    index = i;
+//                     break;
+//                }
+//            }
+//        }
+//        if(n == K){
+//            System.out.println(index);
+//        }else{
+//            System.out.println(0);
+//        }
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
-        int N = Integer.parseInt(st.nextToken());
-        int K = Integer.parseInt(st.nextToken());
 
-        int n = 0;
-        int index = 0;
-        for (int i = 1; i <= N ; i++){
-            if(N%i == 0){
-                n++;
-                if(n == K){
-                    index = i;
-                     break;
+        Integer N = Integer.parseInt(st.nextToken());
+        Integer K = Integer.parseInt(st.nextToken());
+
+        int count = 0;
+        int num = 0;
+        for(int i=1; i<=N; i++){
+            if(N%i==0){
+                count++;
+                if(count == K){
+                    num = i;
+                    break;
                 }
             }
         }
-        if(n == K){
-            System.out.println(index);
+
+        if(count == K){
+            System.out.println(num);
         }else{
             System.out.println(0);
         }

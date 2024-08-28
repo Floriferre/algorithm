@@ -37,6 +37,7 @@ import java.awt.*;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.List;
 import java.util.StringTokenizer;
 
 public class BJ_14888_연산자끼워넣기 {
@@ -77,13 +78,62 @@ public class BJ_14888_연산자끼워넣기 {
         System.out.println(sb);
     }
 
-    // 몇 번째인지, +, -, *, / 갯수 카운트, 선택된 것 배열에 넣기
-    public static void solve(int nthChoice, int plus, int minus, int mulyiply, int divide, char[] choosed){
-        // 기저 조건 : 연산자 다 썼으면 값 계산해서 최댓값 최솟값 업데이트
-        if(nthChoice == N-1){
+//    // 몇 번째인지, +, -, *, / 갯수 카운트, 선택된 것 배열에 넣기
+//    public static void solve(int nthChoice, int plus, int minus, int mulyiply, int divide, char[] choosed){
+//        // 기저 조건 : 연산자 다 썼으면 값 계산해서 최댓값 최솟값 업데이트
+//        if(nthChoice == N-1){
+//            int result = nums[0];
+//            for (int i = 0; i < choosed.length; i++) {
+//                switch (choosed[i]){
+//                    case '+':
+//                        result += nums[i+1];
+//                        break;
+//                    case '-':
+//                        result -= nums[i+1];
+//                        break;
+//                    case '*':
+//                        result *= nums[i+1];
+//                        break;
+//                    case '/':
+//                        result /= nums[i+1];
+//                        break;
+//                }
+//            }
+//
+//            maxNum = Math.max(maxNum, result);
+//            minNum = Math.min(minNum, result);
+//
+//            return;
+//        }
+//
+//        // 재귀 처리
+//        if (plus > 0){
+//            choosed[nthChoice] = '+';
+//            solve(nthChoice+1, plus-1, minus, mulyiply, divide, choosed);
+//        }
+//        if (minus > 0){
+//            choosed[nthChoice] = '-';
+//            solve(nthChoice+1, plus, minus-1, mulyiply, divide, choosed);
+//        }
+//        if (mulyiply > 0){
+//            choosed[nthChoice] = '*';
+//            solve(nthChoice+1, plus, minus, mulyiply-1, divide, choosed);
+//        }
+//        if (divide > 0){
+//            choosed[nthChoice] = '/';
+//            solve(nthChoice+1, plus, minus, mulyiply, divide-1, choosed);
+//        }
+//
+//
+//
+//
+//    }
+
+    public static void solve(int currentN, int plus, int minus, int multiply, int divide, char[] choosed){
+        if(currentN == N-1){    // 모든 operand를 전부 왔다면
             int result = nums[0];
-            for (int i = 0; i < choosed.length; i++) {
-                switch (choosed[i]){
+            for(int i = 0; i < choosed.length; i++){
+                switch(choosed[i]){
                     case '+':
                         result += nums[i+1];
                         break;
@@ -101,31 +151,25 @@ public class BJ_14888_연산자끼워넣기 {
 
             maxNum = Math.max(maxNum, result);
             minNum = Math.min(minNum, result);
-
             return;
         }
 
-        // 재귀 처리
-        if (plus > 0){
-            choosed[nthChoice] = '+';
-            solve(nthChoice+1, plus-1, minus, mulyiply, divide, choosed);
+        if(plus >0){
+            choosed[currentN] = '+';
+            solve(currentN+1, plus-1, minus, multiply, divide, choosed);
         }
-        if (minus > 0){
-            choosed[nthChoice] = '-';
-            solve(nthChoice+1, plus, minus-1, mulyiply, divide, choosed);
+        if(minus >0){
+            choosed[currentN] = '-';
+            solve(currentN+1, plus, minus-1, multiply, divide, choosed);
         }
-        if (mulyiply > 0){
-            choosed[nthChoice] = '*';
-            solve(nthChoice+1, plus, minus, mulyiply-1, divide, choosed);
+        if(multiply >0){
+            choosed[currentN] = '*';
+            solve(currentN+1, plus, minus, multiply-1, divide, choosed);
         }
-        if (divide > 0){
-            choosed[nthChoice] = '/';
-            solve(nthChoice+1, plus, minus, mulyiply, divide-1, choosed);
+        if(divide >0){
+            choosed[currentN] = '/';
+            solve(currentN+1, plus, minus, multiply, divide-1, choosed);
         }
-
-
-
-
     }
 
 }

@@ -51,5 +51,9 @@ public class BJ_2460_지능형기차2 {
             max = Math.max(max, current);
         }
         System.out.println(max);
+
+
+
+        
     }
 }
