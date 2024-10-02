@@ -35,10 +35,14 @@ class Solution {
         for(String [] human : photo){
             int score = 0;
             for(String s : human){
-                try{
-                   score += hash.get(s); 
-                }catch(Exception e){
-                    continue;
+                // try{
+                //    score += hash.get(s); 
+                // }catch(Exception e){
+                //     continue;
+                // }
+                
+                if(hash.containsKey(s)){
+                    score += hash.get(s);
                 }
                 
             }
