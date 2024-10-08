@@ -15,6 +15,9 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
+### 디렉토리 무시 ###
+src/CodingTest
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
